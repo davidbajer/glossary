@@ -18,6 +18,8 @@ Algorithm:: a set of instructions for a computer to do
 
 == H
 
+Hardware (HW):: physical parts of a computer
+
 == I
 
 == J
