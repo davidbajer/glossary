@@ -2,6 +2,8 @@
 
 == A
 
+Algorithm:: a set of instructions for a computer to do
+
 == B
 
 == C
