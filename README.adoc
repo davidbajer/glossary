@@ -26,6 +26,8 @@ Hardware (HW):: physical parts of a computer
 
 == K
 
+Keyboard:: a device with keys to type characters into a computer
+
 == L
 
 == M
