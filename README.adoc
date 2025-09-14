@@ -42,6 +42,8 @@ Hardware (HW):: physical parts of a computer
 
 == S
 
+Software (SW):: programs that run on a computer
+
 == T
 
 == U
