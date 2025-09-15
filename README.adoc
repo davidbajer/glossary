@@ -8,6 +8,8 @@ Algorithm:: a set of instructions for a computer to do
 
 == C
 
+Compiler:: a program that translates source code into machine code
+
 == D
 
 == E
