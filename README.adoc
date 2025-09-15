@@ -42,6 +42,8 @@ Mouse:: a device you move to control a pointer on a computer screen
 
 == P
 
+Printer:: a device that prints documents on paper
+
 == Q
 
 == R
