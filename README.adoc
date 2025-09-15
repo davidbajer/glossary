@@ -12,6 +12,8 @@ Algorithm:: a set of instructions for a computer to do
 
 == E
 
+Editor:: a program to edit text
+
 == F
 
 == G
