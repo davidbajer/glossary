@@ -52,6 +52,8 @@ Software (SW):: programs that run on a computer
 
 == T
 
+Touchpad:: a flat surface on a laptop to control a pointer on a screen
+
 == U
 
 == V
